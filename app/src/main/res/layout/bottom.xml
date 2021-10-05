@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="100dp">
+
+
+    <LinearLayout
+
+
+        android:id="@+id/id_tab_weixin"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+
+        <ImageButton
+            android:id="@+id/id_tab_weixin_img"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:clickable="false"
+
+            android:background="#000000"
+            app:srcCompat="@drawable/weixin2"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:saveEnabled="false"
+            android:text="微信"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/id_tab_frd"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+
+        <ImageButton
+            android:id="@+id/id_tab_frd_img"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:clickable="false"
+
+            android:background="#000000"
+            app:srcCompat="@drawable/friend2"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:saveEnabled="false"
+            android:text="朋友"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/id_tab_contact"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+
+        <ImageButton
+            android:id="@+id/id_tab_contact_img"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:clickable="false"
+
+            android:layout_weight="1"
+            android:background="#000000"
+            app:srcCompat="@drawable/address2"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:saveEnabled="false"
+            android:text="通讯录"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/id_tab_settings"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_weight="1"
+
+        android:background="@drawable/bottom_bar"
+        android:orientation="vertical">
+
+
+        <ImageButton
+            android:id="@+id/id_tab_settings_img"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:clickable="false"
+
+            android:layout_weight="1"
+            android:background="#000000"
+            app:srcCompat="@drawable/setting2"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:saveEnabled="false"
+            android:text="设置"
+            android:textColor="#ffffff"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+</LinearLayout>
