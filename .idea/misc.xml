@@ -5,15 +5,24 @@
       <map>
         <entry key="..\:/Mywork_lbw/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17777777777777778" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17777777777777778" />
-        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/activity_main3.xml" value="0.1" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/bottom.xml" value="0.25364583333333335" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/fragment_contact_blank.xml" value="0.12228260869565218" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/fragment_frd_blank.xml" value="0.1" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/huawei.xml" value="0.2890625" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/item.xml" value="0.22" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/item_dome.xml" value="0.18645833333333334" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/pingguo.xml" value="0.2890625" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/recycle_item.xml" value="0.1" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/tab01.xml" value="0.19010416666666666" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/tab02.xml" value="0.2046875" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/tab03.xml" value="0.2046875" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/tab04.xml" value="0.2046875" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/top.xml" value="0.1" />
         <entry key="..\:/Mywork_lbw/app/src/main/res/layout/weixinFragment.xml" value="0.12228260869565218" />
+        <entry key="..\:/Mywork_lbw/app/src/main/res/layout/xiaomi.xml" value="0.1" />
       </map>
     </option>
   </component>
@@ -22,5 +31,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
